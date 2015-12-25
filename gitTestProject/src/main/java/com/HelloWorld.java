@@ -7,5 +7,6 @@ public class HelloWorld {
 		System.out.println("second commit in master branch");
 	    System.out.println("first commit in new branch");
 		System.out.println("second commit in new branch");
+		System.out.println("second commit in master branch");
     }
 }
